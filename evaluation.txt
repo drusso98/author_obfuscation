@@ -1,0 +1,46 @@
+
+0
+	original :
+	The last office of the four carriage-horses was to draw Sir Walter, Miss Elliot, and Mrs Clay to Bath. The party drove off in very good spirits; Sir Walter prepared with condescending bows for all the afflicted tenantry and cottagers who might have had a hint to show themselves, and Anne walked up at the same time, in a sort of desolate tranquillity, to the Lodge, where she was to spend the first week.
+	nl :
+	The last task of the four carriage horses was to draw Sir Walter, Miss Elliot and Mrs Clay to Bath. In good spirits the party rode off; Sir Walter prepared with condescending bows for all the tormented tenant farmers and cottagers who might have had a hint to show themselves, and Anne walked at the same time, in a kind of desolate calm, to the Lodge, where she spent the first week.
+	fr :
+	The last office of the four carriage horses was to attract Sir Walter, Miss Elliot and Mrs Clay to Bath. The group left in a very good mood; Sir Walter prepared himself with condescending salutes for all the afflicted tenants and chalets who might have had a clue to show themselves, and Anne at the same time made her way, in a sort of desolate tranquility, to the Lodge, where she was to spend the first week.
+	ru :
+	The last service of the four carts was to bring Sir Walter, Miss Elliot, and Mrs. Clay to Bath. The group left in a very good mood; Sir Walter prepared himself with condescending bows to all the suffering tenants and summer residents who may have had a hint to show themselves, and Anne at the same time approached, in a kind of desolate calmness, to the Lodge, where she was to spend the first night. a week.
+	zh-cn :
+	The last task of the four carriages is to pull Sir Walter, Miss Elliott and Mrs. Clay to Bath. The party was very happy; Sir Walter bowed to all the tortured tenants and farmers who might suggest showing up, while Anne walked towards the hut with a desolate tranquility, where she would spend the first week.
+	nl_fr :
+	The last office of the four carriage horses was to attract Sir Walter, Miss Elliot and Mrs Clay to Bath. The group left in a very good mood; Sir Walter prepared himself with condescending salutes for all the afflicted tenants and chalets who might have had a clue to show themselves, and Anne at the same time made her way, in a sort of desolate tranquility, to the Lodge, where she was to spend the first week.
+	ru_zh-cn :
+	The last task of the four carriages is to pull Sir Walter, Miss Elliott and Mrs. Clay to Bath. The party was very happy; Sir Walter bowed to all the tortured tenants and farmers who might suggest showing up, while Anne walked towards the hut with a desolate tranquility, where she would spend the first week.
+1
+	original :
+	Charles Musgrove, indeed, afterwards, shewed more of inclination; "the child was going on so well, and he wished so much to be introduced to Captain Wentworth, that, perhaps, he might join them in the evening; he would not dine from home, but he might walk in for half an hour." But in this he was eagerly opposed by his wife, with "Oh! no, indeed, Charles, I cannot bear to have you go away.  Only think if anything should happen?"
+	nl :
+	Charles Musgrove indeed showed more inclination afterwards; "The child was doing so well, and he was so eager to be introduced to Captain Wentworth that he might join them in the evening; he wouldn't eat from home, but he might walk in for half an hour." But in this he was eagerly opposed by his wife, saying, "Oh! no, indeed, Charles, I can't bear you leaving. Just think if something should happen?"
+	fr :
+	Charles Musgrove, in fact, subsequently showed more inclination; “The child was doing so well, and he wanted so much to be introduced to Captain Wentworth, that perhaps he could join them in the evening; he wouldn't dine from home, but he could walk for half an hour. "But in this he was strongly opposed by his wife, with" Oh! no, indeed, Charles, I cannot stand your leaving. Just think if something were to happen? "
+	ru :
+	Charles Musgrove did show more inclination after that; “The child was doing so well and was so anxious to be introduced to Captain Wentworth that perhaps he could join them in the evening; he will not dine from home, but he can come for half an hour. "But in this his wife fiercely opposed him:" Oh no, indeed, Charles, I cannot bear you leaving. Just think, if something happens?
+	zh-cn :
+	In fact, Charles Musgrove later showed more tendencies. "This kid is doing well. He really wants to be introduced to Captain Wentworth. Maybe he can go with them at night; he won't eat at home, but he may walk in for half an hour." But in this matter He was eagerly opposed by his wife, "Oh! No, Charles, I can't bear to let you go. Think about it in case something happens?"
+	nl_fr :
+	Charles Musgrove, in fact, subsequently showed more inclination; “The child was doing so well, and he wanted so much to be introduced to Captain Wentworth, that perhaps he could join them in the evening; he wouldn't dine from home, but he could walk for half an hour. "But in this he was strongly opposed by his wife, with" Oh! no, indeed, Charles, I cannot stand your leaving. Just think if something were to happen? "
+	ru_zh-cn :
+	In fact, Charles Musgrove later showed more tendencies. "This kid is doing well. He really wants to be introduced to Captain Wentworth. Maybe he can go with them at night; he won't eat at home, but he may walk in for half an hour." But in this matter He was eagerly opposed by his wife, "Oh! No, Charles, I can't bear to let you go. Think about it in case something happens?"
+2
+	original :
+	The real circumstances of this pathetic piece of family history were, that the Musgroves had had the ill fortune of a very troublesome, hopeless son; and the good fortune to lose him before he reached his twentieth year; that he had been sent to sea because he was stupid and unmanageable on shore; that he had been very little cared for at any time by his family, though quite as much as he deserved; seldom heard of, and scarcely at all regretted, when the intelligence of his death abroad had worked its way to Uppercross, two years before.
+	nl :
+	The real circumstances of this pathetic piece of family history were that the Musgroves had had the misfortune of a very troublesome, hopeless son; and the good fortune of losing him before he reached his twentieth year; that he had been sent to sea because he was stupid and unmanageable ashore; that at one point his family had cared very little for him, although he earned just as much; rarely heard of, and hardly regretted, when information about his death abroad had reached Uppercross two years earlier.
+	fr :
+	The real circumstances of this pathetic piece of family history were, that the Musgroves had the bad luck of a very boring and desperate son; and the good fortune of losing him before he reaches his twentieth year; that he had been sent to sea because he was stupid and unmanageable on land; that he had received very little care at any time by his family, although as much as he deserved; rarely heard of, and hardly regretted, when news of his death overseas had made its way to Uppercross two years earlier.
+	ru :
+	The real circumstances of this pathetic episode in family history were that Musgroves had the misfortune of having a very restless, hopeless son; and the happiness of losing him before he reaches twenty; that he was sent to sea because he was stupid and unruly on the shore; that his family ever cared very little for him, even though they did what he deserved; rarely heard, and almost never regretted that news of his death abroad reached Uppercross two years ago.
+	zh-cn :
+	The truth of this sad family history is that the Musgrove family had a very troublesome and hopeless son; and that he lost his good fortune before he was twenty; he was sent to the sea because he was in The shore was stupid and unruly; his family rarely took care of him at any time, despite the care he deserved; two years ago, the news of his death abroad reached Upper Cross, and he rarely heard of it, and did not. regret.
+	nl_fr :
+	The real circumstances of this pathetic piece of family history were, that the Musgroves had the bad luck of a very boring and desperate son; and the good fortune of losing him before he reaches his twentieth year; that he had been sent to sea because he was stupid and unmanageable on land; that he had received very little care at any time by his family, although as much as he deserved; rarely heard of, and hardly regretted, when news of his death overseas had made its way to Uppercross two years earlier.
+	ru_zh-cn :
+	The truth of this sad family history is that the Musgrove family had a very troublesome and hopeless son; and that he lost his good fortune before he was twenty; he was sent to the sea because he was in The shore was stupid and unruly; his family rarely took care of him at any time, despite the care he deserved; two years ago, the news of his death abroad reached Upper Cross, and he rarely heard of it, and did not. regret.
